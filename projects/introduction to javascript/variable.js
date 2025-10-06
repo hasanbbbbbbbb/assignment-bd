@@ -1,4 +1,0 @@
-/**
- *   VARIABLE ==> vary + able
- * 
- *  */
