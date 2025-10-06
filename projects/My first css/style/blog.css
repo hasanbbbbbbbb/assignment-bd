@@ -1,0 +1,46 @@
+.header{
+    height: 300px;
+    /*background-image: url("blue.jpeg");*/
+    /*background-image: url("../pori\ moni.jpg")*/
+    /*background-image: url('../pori\ moni.jpg');*/
+    /*background-image: url('../father.jpg');*/
+    background-image: url('../strong/joshua-earle-EUWYt3lszE4-unsplash.jpg');
+    /*background-repeat: no-repeat; */
+    /*background-repeat: repeat-x ;*/
+    /*background-repeat: repeat-y;*/
+    /*background-size: cover;*/
+    /*background-size: contain;*/
+    /*background-size: 200px;*/
+
+}
+h3{
+    font-size: 30px;
+    text-decoration: overline;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.blog{
+    margin: 20px;
+    border: 10px solid tomato;
+    box-shadow: 10px 10px 20px blue;
+}
+.second{
+    /*display: none;*/
+     /*visibility: hidden;*/ 
+}
+.incident{
+    border: 2px solid purple;
+    height: 20px;
+    display: block;
+    margin: 20px;
+    display: inline-block;
+}
+
+li{
+    display: inline-block;
+}
+.dolor{
+    border: 2px solid peru ;
+    height: 60px;
+    display: inline-black;
+}
